@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hey there! Hydrate yourself as you visit my profile!
+
+Myself Kanad! I am an Economist with specilisation in Behavioural and Experimental Economics.
+
+This is my first public GitHub profile to showcase projects that I felt were cool, alongside some notes and research.
+
+At present, I am looking forward to making a transition into Data Science and Machine Learning, in conjunction with the principles of behavioural science for more humancentric modelling. Don't worry, I am not a newbie; I received my Master's in Economics and Data Science from the University of Nottingham, with a merit scholarship.
+
+If you are a researcher in the same domain, a recruiter finding the next better move or just find human behaviour intriguing from a statistical lens, feel free to reach out on kanadbose@proton.me ; I have way too many hobbies, ranging from BeyBlade collection to Philosophical discussion, so we might have more in common!
+
+Take care and don't forget to drink enough water!
 
 <!--
 **kanadbose/kanadbose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
